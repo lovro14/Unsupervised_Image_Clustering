@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+__pycache__
+/log/dir/*
+/models/*
+/data/*
+.idea/
+labels.txt
+tensorboard/
